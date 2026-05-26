@@ -1,7 +1,7 @@
 {
-  "active": false,
-  "title": "19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramımız kutlu olsun.",
-  "message": "19 Mayıs Atatürk’ü Anma, Gençlik ve Spor Bayramımız kutlu olsun. Bağımsızlık meşalesini yakan Gazi Mustafa Kemal Atatürk’ü ve tüm kahramanlarımızı rahmet, minnet ve saygıyla anıyoruz.",
+  "active": active,
+  "title": "Kurban Bayramınız Mübarek Olsun.",
+  "message": "Paylaşmanın, kardeşliğin ve teslimiyetin anlam kazandığı Kurban Bayramımız mübarek olsun. Rabbim bu mübarek günleri huzura, berekete ve hayırlı dualara vesile eylesin.",
   "source": "Ezan Vakti",
   "buttonText": "Paylaş",
   "type": "national"
